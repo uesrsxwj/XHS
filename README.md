@@ -14,7 +14,7 @@
 - 自动关注，点赞，收藏
 - 发送私信
 ## 2025年1月19号（可用）
-![image](https://github.com/uesrsxwj/-/blob/main/%E5%BE%AE%E4%BF%A1%E6%88%AA%E5%9B%BE_20250117093304.png)
+![image](https://github.com/uesrsxwj/XHS/blob/main/小红书展示图.png)
 ## 基础设置
 - 需要用户cookie（账号信息）值进行本账号爬取或发布
 - 保存可支持数据库和execl，csv保存
